@@ -1,1 +1,1 @@
-# mojkalkulator
+# mojkalkulator - projekt kalkulatora 
