@@ -1,1 +1,1 @@
-# mojkalkulator - projekt kalkulatora 
+# mojkalkulator - projekt kalkulatora zmiana 2
